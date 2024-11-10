@@ -1,0 +1,32 @@
+{
+"status":"ok","totalResults":3,
+"articles": [
+{
+"source":{"id":null,"name":"NDTV News"},
+"author":null,"title":"10 Health Benefits Of Tree Tea Oil - NDTV",
+"description":"Here we discuss in detail the many benefits of using tree tea oil.",
+"url":"https://www.ndtv.com/health/10-health-benefits-of-tree-tea-oil-6139165",
+"urlToImage":"https://c.ndtvimg.com/2024-07/t6vglvb_tree-tea-oil_625x300_19_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+"publishedAt":"2024-07-19T07:31:05Z","content":"Always dilute tea tree oil with a carrier oil before applying it to the skin\r\nTea tree oil, derived from the leaves of the Melaleuca alternifolia plant,is a popular essential oil known for its antim… [+3475 chars]"
+},
+
+{
+"source":{"id":"google-news","name":"Google News"},
+"author":"mid-day.com",
+"title":"Monsoon health tips: The ultimate guide to ensure children’s physical and mental wellness in rainy season - mid-day.com",
+"description":null,
+"url":"https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5taWQtZGF5LmNvbS9saWZlc3R5bGUvaGVhbHRoLWFuZC1maXRuZXNzL2FydGljbGUvbW9uc29vbi1oZWFsdGgtdGlwcy10aGUtdWx0aW1hdGUtZ3VpZGUtdG8tZW5zdXJlLWNoaWxkcmVuLXBoeXNpY2FsLWFuZC1tZW50YWwtd2VsbG5lc3MtaW4tcmFpbnktc2Vhc29uLTIzMzY1NDM30gGwAWh0dHBzOi8vd3d3Lm1pZC1kYXkuY29tL2FtcC9saWZlc3R5bGUvaGVhbHRoLWFuZC1maXRuZXNzL2FydGljbGUvbW9uc29vbi1oZWFsdGgtdGlwcy10aGUtdWx0aW1hdGUtZ3VpZGUtdG8tZW5zdXJlLWNoaWxkcmVuLXBoeXNpY2FsLWFuZC1tZW50YWwtd2VsbG5lc3MtaW4tcmFpbnktc2Vhc29uLTIzMzY1NDM3?oc=5",
+"urlToImage":null,
+"publishedAt":"2024-07-19T04:00:00Z","content":null},
+
+{
+"source":{"id":"google-news",
+"name":"Google News"},
+"author":"Times Now",
+"title":"Pune: Zika Virus Cases Surge to 24, Pregnant Women at High Risk; How Health Officials Plan to Contain Spread? - Times Now",
+"description":null,
+"url":"https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL3B1bmUvemlrYS12aXJ1cy1jYXNlcy1zdXJnZS1pbi1wdW5lLXByZWduYW50LXdvbWVuLWF0LWhpZ2gtcmlzay1ob3ctaGVhbHRoLW9mZmljaWFscy1wbGFuLXRvLWNvbnRhaW4tc3ByZWFkLWFydGljbGUtMTExODM0NTYz0gGeAWh0dHBzOi8vd3d3LnRpbWVzbm93bmV3cy5jb20vcHVuZS96aWthLXZpcnVzLWNhc2VzLXN1cmdlLWluLXB1bmUtcHJlZ25hbnQtd29tZW4tYXQtaGlnaC1yaXNrLWhvdy1oZWFsdGgtb2ZmaWNpYWxzLXBsYW4tdG8tY29udGFpbi1zcHJlYWQtYXJ0aWNsZS0xMTE4MzQ1NjMvYW1w?oc=5",
+"urlToImage":null,
+"publishedAt":"2024-07-18T10:11:01Z","content":null}
+]'
+}
