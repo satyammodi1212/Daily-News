@@ -93,7 +93,8 @@ export class News extends Component {
   //   }
   // };
   fetchMoreData = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c13c7111c6fd4dafada276d358306817&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+    // let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c13c7111c6fd4dafada276d358306817&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+    let url = `https://newsapi.org/v2/top-headlines?&category=${this.props.category}&apiKey=c13c7111c6fd4dafada276d358306817&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
     this.setState({ page: this.state.page + 1 })
     // this.setState({ loading: true });
     let data = await fetch(url);

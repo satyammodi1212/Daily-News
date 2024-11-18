@@ -106,22 +106,6 @@ export class NavBar extends Component {
                     </ul>
                   </li> */}
               </ul>
-              {/* <div className="nav-item dropdown">
-                <ul dropdown-menu>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/in">
-                    India
-                  </Link>
-                  <ul>
-                  <li className="nav-item">
-                  <Link className="nav-link" to="/us">
-                    United-state
-                  </Link>
-                </li>
-                  </ul>
-                </li>
-                </ul>
-              </div> */}
             </div>
           </div>
         </nav>
